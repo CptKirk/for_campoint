@@ -2,6 +2,7 @@
 
     <head>
         <title>Kostendiff. Bahn/PKW</title>
+        <link rel="stylesheet" href="stylesheet.css">
     </head>
 
     <body>
