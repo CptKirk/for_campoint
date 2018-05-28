@@ -12,7 +12,7 @@
 
         <?php
 
-        # Hier übertrage ich die Variablen von der index.html Seite
+        # Hier übertrage ich die Variablen von der einfach.html Seite
         $entfernung = $_POST['entfernung'];
         $bahn_km = $_POST['bahn_km'];
         $pkw_km = $_POST['pkw_km'];
