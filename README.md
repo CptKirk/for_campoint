@@ -1,0 +1,1 @@
+Übungsaufgabe für campoint.
