@@ -1,0 +1,25 @@
+input[type=text] {
+    background-color: rgb(28, 101, 179);
+    color: white;
+    border: solid black;
+    border-width: 1px;
+}
+
+input[type=submit] {
+    background-color: rgb(28, 101, 179);
+    border: solid black;
+    color: white;
+    padding: 16px 32px;
+}
+
+form {
+    width: 200px;
+    font-size: 16px;
+    background: rgb(122, 175, 228);
+    padding: 30px 15px 30px 15px;
+    border: 1px solid black;
+}
+
+body {
+    background-color: rgb(255, 153, 1);
+}
